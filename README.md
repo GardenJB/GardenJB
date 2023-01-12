@@ -1,6 +1,8 @@
 # Hello :smile: 
 
-## it's JungBin!
+# it's JungBin!
+
+</div>
 
 ## :fox_face: Profile
 
