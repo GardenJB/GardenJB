@@ -1,6 +1,4 @@
-# Hello :smile: 
-
-# it's JungBin!
+# Hello :smile:    it's JungBin!
 
 </div>
 
